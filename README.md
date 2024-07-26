@@ -9,7 +9,6 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.tradingview.com/pine-script-docs/en/v5/index.html" target="_blank" rel="noreferrer"> <img src="https://www.tradingview.com/pine-script-docs/en/v5/_images/Pine_Script_logo_text.png" alt="pinescript" width="40" height="40"/> </a>
 <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" alt="pinescript" width="40" height="40"/> </a>
 
 </p>
